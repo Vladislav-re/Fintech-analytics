@@ -1,0 +1,2 @@
+﻿auc;gini;ks;ks_threshold;tpr_ks;fpr_ks;rejected_total_ks;rejected_good_ks;rejected_def_ks;optimal_threshold;precision;tpr_best_profit;fpr_best_profit;n_train;n_test;n_features;default_rate_test;optimal_profit_mln;ks_profit_mln;rejected_total_best_profit;rejected_good_best_profit;rejected_def_best_profit
+0.7788;0.5577;0.4265;0.076;0.7257;0.2991;20495;16895;3600;0.512;0.5768;0.0371;0.0024;245772;61444;125;0.0807;4293.2;3196.5;319;135;184
