@@ -31,9 +31,11 @@ Python — pandas, numpy, LightGBM, SHAP, sklearn, scipy, numpy_financial
 Tableau — интерактивный дашборд с параметрами
 
 ## Структура
-notebook.ipynb        # основной ноутбук
-data/                 # исходные данные (parquet)
-dashboard/            # csv-экспорты для Tableau
+notebook.ipynb  -  основной ноутбук
+
+data/ - исходные данные (parquet)
+
+dashboard/ - csv-экспорты для Tableau
 
 ## Методология
 
