@@ -16,6 +16,9 @@
 
 7 связанных таблиц — заявки клиентов, кредитное бюро, история платежей, балансы карт и POS-кредитов. Только одобренные заявки (selection bias зафиксирован в ограничениях).
 
+Ссылка на скачивание исходных файлов для нотбука: https://drive.google.com/drive/folders/1OnsklN_vUI8j5HY7nPFX7GcRkrmQFkWX?usp=sharing
+Ссылка на скачивание файлов (источника данных) для Tableau: https://drive.google.com/drive/folders/1OKOVH22MGpLI3LO8cWOHgCyIEhstQXht?usp=sharing
+
 ## Результаты
 
 | Метрика | Значение |
