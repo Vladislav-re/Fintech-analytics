@@ -20,6 +20,8 @@
 
 Ссылка на скачивание файлов (источника данных) для Tableau: https://drive.google.com/drive/folders/1OKOVH22MGpLI3LO8cWOHgCyIEhstQXht?usp=sharing
 
+Tableau Public (press 'see this in full screen'): https://public.tableau.com/app/profile/vladislav.kobelkov/vizzes
+
 ## Результаты
 
 | Метрика | Значение |
